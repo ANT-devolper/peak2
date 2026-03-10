@@ -1,0 +1,15 @@
+C:/Users/Antonio/Projects/peak2/CMakeFiles/GameDevelopmentProject.dir
+C:/Users/Antonio/Projects/peak2/CMakeFiles/INSTALL.dir
+C:/Users/Antonio/Projects/peak2/CMakeFiles/ALL_BUILD.dir
+C:/Users/Antonio/Projects/peak2/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Antonio/Projects/peak2/glfw_build/CMakeFiles/uninstall.dir
+C:/Users/Antonio/Projects/peak2/glfw_build/CMakeFiles/INSTALL.dir
+C:/Users/Antonio/Projects/peak2/glfw_build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Antonio/Projects/peak2/glfw_build/src/CMakeFiles/glfw.dir
+C:/Users/Antonio/Projects/peak2/glfw_build/src/CMakeFiles/update_mappings.dir
+C:/Users/Antonio/Projects/peak2/glfw_build/src/CMakeFiles/INSTALL.dir
+C:/Users/Antonio/Projects/peak2/glfw_build/docs/CMakeFiles/INSTALL.dir
+C:/Users/Antonio/Projects/peak2/glew_build/CMakeFiles/glew.dir
+C:/Users/Antonio/Projects/peak2/glew_build/CMakeFiles/glew_s.dir
+C:/Users/Antonio/Projects/peak2/glew_build/CMakeFiles/INSTALL.dir
+C:/Users/Antonio/Projects/peak2/glew_build/CMakeFiles/ALL_BUILD.dir

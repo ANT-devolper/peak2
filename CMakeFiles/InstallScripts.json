@@ -1,0 +1,11 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/Antonio/Projects/peak2/cmake_install.cmake",
+		"C:/Users/Antonio/Projects/peak2/glfw_build/cmake_install.cmake",
+		"C:/Users/Antonio/Projects/peak2/glfw_build/src/cmake_install.cmake",
+		"C:/Users/Antonio/Projects/peak2/glfw_build/docs/cmake_install.cmake",
+		"C:/Users/Antonio/Projects/peak2/glew_build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
